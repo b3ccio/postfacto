@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9c6a1fc2.chunk.css",
+    "main.js": "/static/js/main.ae337d2c.chunk.js",
+    "main.js.map": "/static/js/main.ae337d2c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.df8613b9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.df8613b9.js.map",
+    "static/js/2.199dcee5.chunk.js": "/static/js/2.199dcee5.chunk.js",
+    "static/js/2.199dcee5.chunk.js.map": "/static/js/2.199dcee5.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.83401b6075f02a8315a9d02ecb3b26bc.js": "/precache-manifest.83401b6075f02a8315a9d02ecb3b26bc.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.9c6a1fc2.chunk.css.map": "/static/css/main.9c6a1fc2.chunk.css.map",
+    "static/js/2.199dcee5.chunk.js.LICENSE.txt": "/static/js/2.199dcee5.chunk.js.LICENSE.txt",
+    "static/media/action-tick-checked.svg": "/static/media/action-tick-checked.1f08df83.svg",
+    "static/media/action-tick-unchecked.svg": "/static/media/action-tick-unchecked.0e3156db.svg",
+    "static/media/face-dead.svg": "/static/media/face-dead.e3a01ea7.svg",
+    "static/media/happy.svg": "/static/media/happy.e2980c5f.svg",
+    "static/media/icon-eye.svg": "/static/media/icon-eye.ae90c426.svg",
+    "static/media/icon-locked.svg": "/static/media/icon-locked.4788264d.svg",
+    "static/media/meh.svg": "/static/media/meh.fc3d8f6f.svg",
+    "static/media/sad.svg": "/static/media/sad.6c7c7305.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df8613b9.js",
+    "static/js/2.199dcee5.chunk.js",
+    "static/css/main.9c6a1fc2.chunk.css",
+    "static/js/main.ae337d2c.chunk.js"
+  ]
+}
